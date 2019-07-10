@@ -1,0 +1,5 @@
+
+pour instaler un git sur ubuntu il faut execté 
+
+sudo apt-get install git -y
+
